@@ -1,0 +1,3 @@
+LIBRARY "Rigid_Body_Subtract"
+EXPORTS
+RB_Subtract
